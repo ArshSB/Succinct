@@ -1,0 +1,4 @@
+# Function dependencies, for example: package>=version
+youtube_transcript_api>=0.4.4
+requests>=2.28.1
+regex>=2022.7.25
