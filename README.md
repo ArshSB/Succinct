@@ -18,7 +18,7 @@ Succinct is a fully responsive, progressive web app built with React, TypeScript
  
 ## Feedback
 
-We hope this application will be as useful to you as it has been to us. If you encounter any bugs, issues or have general feedback, please feel free to leave a ticket in the issues section of this repository!
+We hope this application will be as useful to you as it has been to us. If you encounter any bugs, issues, feature requests or have general feedback, please feel free to leave a ticket in the issues section of this repository!
 
 ## Built with
 
@@ -29,4 +29,6 @@ We hope this application will be as useful to you as it has been to us. If you e
 
 ## Attributions
 
+* [Youtube Transcript API](https://pypi.org/project/youtube-transcript-api/) - Python API which allows you to get the transcripts/subtitles for a given YouTube video
 * [Favicon & Logos from Flaticon](https://www.flaticon.com/) - free, high definition icons and images
+* [Samsung Sans Font](https://www.cdnfonts.com/samsung-sans-4.font) - beautiful fonts at your disposal
