@@ -233,22 +233,33 @@ export default function App() {
                         icon={<GitHubIcon sx={{ width: 20, height: 20 }} />}
                         content={
                           <p style={{ fontSize: "14px", fontWeight: "bolder" }}>
-                            Made with ♡ by
+                            Made with ♡ by {""}
                             <a
                               href="https://github.com/ArshSB"
                               style={{ textDecoration: "none", color: "red" }}
                             >
-                              {" "}
-                              Arsh{" "}
+                              Arsh
                             </a>{" "}
-                            &amp;
+                            &amp; {""}
                             <a
                               href="https://github.com/Roba-Geleta"
                               style={{ textDecoration: "none", color: "blue" }}
                             >
-                              {" "}
-                              Roba{" "}
+                              Roba
                             </a>
+                            <br />
+                            <p
+                              style={{ fontSize: "12px", fontWeight: "normal" }}
+                            >
+                              ➤ This project is open source and your feedback is
+                              much appreciated! You can view it {""}
+                              <a
+                                href="https://github.com/ArshSB/Succinct"
+                                style={{ color: "green" }}
+                              >
+                                here
+                              </a>
+                            </p>
                           </p>
                         }
                       ></InfoBox>
@@ -326,7 +337,8 @@ export default function App() {
                       icon={<HelpIcon />}
                       content={
                         <p style={{ fontSize: "14px" }}>
-                          <b>Summary</b> of your desired length
+                          <b>Summary</b> of your desired length. Note that it
+                          may take multiple requests for longer videos
                           <br />
                           <br /> <b>Transcript </b> of the video as well as the
                           concepts considered inside the text
