@@ -18,7 +18,7 @@ Succinct is a fully responsive, progressive web app built with React, TypeScript
  
 ## Feedback
 
-We hope this application will be as useful to you as it has been to us. If you encounter any bugs, issues, feature requests or have general feedback, please feel free to leave a ticket in the issues section of this repository!
+We hope this application will be as useful to you as it has been to us. If you encounter any bugs, issues, have feature requests or general feedback, please feel free to leave a ticket in the issues section of this repository!
 
 ## Built with
 
