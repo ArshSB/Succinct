@@ -11,14 +11,6 @@ const theme = createTheme({
   },
 });
 
-// import SamsungSansttf from "../fonts/SamsungSans-Light.ttf";
-// // import Sa from "../fonts/SamsungSans-Regular.ttf";
-
-// const theme = createTheme({
-//   typography: {
-//     fontFamily: "Raleway, Arial",
-//   },
-// });
 type Display = {
   summary: string; // summary of the video
   transcript: string; // full transcript of the video
