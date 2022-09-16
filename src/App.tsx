@@ -84,9 +84,7 @@ export default function App() {
     const regex =
       '(?:youtube(?:-nocookie)?\\.com/(?:[^/]+/.+/|(?:v|e(?:mbed)?)/|.*[?&]v=)|youtu\\.be/)([^"&?/\\s]{11})';
     const found = inputVals["url"].match(regex);
-
-    console.log(found);
-    console.log(inputVals["url"]);
+    
     // if the link is not valid, show error
     if (found === null) {
       showError(2500, "Invalid link, please try again");
